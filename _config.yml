@@ -1,0 +1,14 @@
+layout_spectrum: 0.7050807834602892
+typography_spectrum: 0.7989258279558271
+color:
+  brandStrength: 0.7157723568379879
+  lightness: 0.3595616305246949
+  saturation: 0.02957138721831143
+  rhythmicContrast: 0.9985571021679789
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: kposten
