@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kposten]]></title>
         <description><![CDATA[kposten]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kposten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 06:43:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jul 2016 06:43:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kposten/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>1</p>]]></description>
+            <link>https://thegrid.ai/kposten/1/index.html</link>
+            <guid isPermaLink="false">4dd3ec71-7213-46c6-864a-92d575336e1b</guid>
+            <pubDate>Mon, 04 Jul 2016 06:43:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>KabelvågPostenKp Markedsutgave 2012 </p>]]></description>
-            <link>undefinedkabelvagpostenkp-markedsutgave-2012/index.html</link>
+            <link>https://thegrid.ai/kposten/kabelvagpostenkp-markedsutgave-2012/index.html</link>
             <guid isPermaLink="false">57b34395-2f0e-4eed-a577-d877d957c6fa</guid>
             <pubDate>Mon, 04 Jul 2016 06:43:27 GMT</pubDate>
         </item>
