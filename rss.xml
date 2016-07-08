@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[kposten]]></title>
         <description><![CDATA[kposten]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kposten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 05:36:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 05:48:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kposten/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kabelvågposten 2013]]></title>
+            <description><![CDATA[<article><h1>Kabelvågposten 2013</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e69f905d23f8a3ffca281ec15b89837f/croprotate.png?cropheight=827&cropwidth=583&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3ccc87be-26ee-4f47-9682-d6af1d7dbbc5.png&x=6&y=0"></article>]]></description>
+            <link>https://drive.google.com/file/d/0B9AdNQJ4-RXNRGRncGtlSHJoSTQ/view?usp=sharing</link>
+            <guid isPermaLink="false">4ab0ae65-4118-40e5-9754-bb560392bf36</guid>
+            <pubDate>Fri, 08 Jul 2016 05:48:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kabelvågposten 2012]]></title>
             <description><![CDATA[<article><h1>Kabelvågposten 2012</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23e45c77c42be792283e5d65b9bb051a/noop?input=https%3A%2F%2Flh4.googleusercontent.com%2F5BSW4HOQ4YIwq3B07lyvnEG75d3yDwBEeHrDTbkam9pbuOdqtuSPsg%3Dw1200-h630-p"></article>]]></description>
