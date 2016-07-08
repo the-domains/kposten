@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kposten]]></title>
+        <description><![CDATA[kposten]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jul 2016 05:36:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kabelvågposten 2012]]></title>
+            <description><![CDATA[<article><h1>Kabelvågposten 2012</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23e45c77c42be792283e5d65b9bb051a/noop?input=https%3A%2F%2Flh4.googleusercontent.com%2F5BSW4HOQ4YIwq3B07lyvnEG75d3yDwBEeHrDTbkam9pbuOdqtuSPsg%3Dw1200-h630-p"></article>]]></description>
+            <link>https://drive.google.com/file/d/0B9AdNQJ4-RXNbWNFdENBTmZtb2s/view?usp=sharing</link>
+            <guid isPermaLink="false">5c753ea6-f0ab-4b1f-ac89-eb16c0c7b972</guid>
+            <pubDate>Fri, 08 Jul 2016 05:36:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
